@@ -8,7 +8,7 @@ import time
 
 # --- Configurations ---
 do_file = "tb_do_file.tcl"  # TCL file to run ModelSim simulation
-working_dir = r"F:/conway_gol/run"  # Working directory containing input/output files
+working_dir = r"F:/conway_gol/run"  # Working directory containing input/output files # change working directory as per your need
 input_file = os.path.join(working_dir, "user_input.txt")  # File to write input pattern
 output_file = os.path.join(working_dir, "sim_output.txt")  # Simulation output (binary)
 vsim_cmd = ["vsim", "-c", "-do", f"do {do_file}"]  # Command to run ModelSim in console mode
