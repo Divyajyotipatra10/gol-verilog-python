@@ -1,4 +1,4 @@
-# Conway’s Game of Life — Hardware Simulation with Verilog & Python\
+# Conway’s Game of Life — Hardware Simulation with Verilog & Python
 This project implements Conway’s Game of Life (GOL) using Verilog for simulation logic and Python for GUI interaction and visualization. The game logic, including toroidal boundary handling, is entirely written in Verilog and simulated using ModelSim. Input patterns are passed from a custom Tkinter-based GUI, and the output of the simulation is visualized using Pygame as a dynamic 16×16 grid.
 
 ## Project Overview
