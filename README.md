@@ -49,25 +49,20 @@ Final results are written into sim_output.txt
 Simulation is invoked as:
 vsim -c -do "do tb_do_file.tcl"
 
-![image](https://github.com/user-attachments/assets/3515ba13-cf1b-473a-8dd7-1eb87a54014c)
-![image](https://github.com/user-attachments/assets/518c3d7e-2628-4cd4-8853-bab5d92ea830) 
-![image](https://github.com/user-attachments/assets/55d96bea-05cb-4b42-93eb-cc95dd13d9a3)
-![image](https://github.com/user-attachments/assets/861cde22-00cf-4882-bb15-95aaf5e6ea40)
-
 <h3>🔧 ModelSim Simulation Output</h3>
-<img src="https://github.com/user-attachments/assets/3515ba13-cf1b-473a-8dd7-1eb87a54014c" width="700" alt="ModelSim Simulation Output">
+<img src="https://github.com/user-attachments/assets/3515ba13-cf1b-473a-8dd7-1eb87a54014c" width="600" alt="ModelSim Simulation Output">
 
 <!-- TCL Console Output -->
-<h3>📜 TCL Console Output</h3>
-<img src="https://github.com/user-attachments/assets/518c3d7e-2628-4cd4-8853-bab5d92ea830" width="700" alt="TCL Console Output">
+<h3>📜 WAVEFORM</h3>
+<img src="https://github.com/user-attachments/assets/518c3d7e-2628-4cd4-8853-bab5d92ea830" width="600" alt="WAVEFORM">
 
 <!-- Python GUI Interface -->
-<h3>🖱️ Python GUI Input Interface</h3>
-<img src="https://github.com/user-attachments/assets/55d96bea-05cb-4b42-93eb-cc95dd13d9a3" width="700" alt="Python GUI Interface">
+<h3>🖱️ WAVEFORM</h3>
+<img src="https://github.com/user-attachments/assets/55d96bea-05cb-4b42-93eb-cc95dd13d9a3" width="600" alt="WAVEFORM">
 
 <!-- Pygame Visualization Output -->
-<h3>🎮 Pygame Grid Visualization</h3>
-<img src="https://github.com/user-attachments/assets/861cde22-00cf-4882-bb15-95aaf5e6ea40" width="700" alt="Pygame Visualization">
+<h3>🎮  TCL Console Output</h3>
+<img src="https://github.com/user-attachments/assets/861cde22-00cf-4882-bb15-95aaf5e6ea40" width="300" alt="TCL Console Output">
 
 
 ## Python GUI
