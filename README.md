@@ -52,6 +52,8 @@ vsim -c -do "do tb_do_file.tcl"
 ![image](https://github.com/user-attachments/assets/3515ba13-cf1b-473a-8dd7-1eb87a54014c)
 ![image](https://github.com/user-attachments/assets/518c3d7e-2628-4cd4-8853-bab5d92ea830) 
 ![image](https://github.com/user-attachments/assets/55d96bea-05cb-4b42-93eb-cc95dd13d9a3)
+![image](https://github.com/user-attachments/assets/861cde22-00cf-4882-bb15-95aaf5e6ea40)
+
 
 ## Python GUI
 A Python GUI (built using Tkinter) allows you to:
