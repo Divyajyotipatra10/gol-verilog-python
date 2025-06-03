@@ -73,9 +73,23 @@ Send the pattern to Verilog by writing a 256-bit hex string to the input file
 Start the simulation and launch visualization from the same interface
 
 ## GUI Screenshot
-![image](https://github.com/user-attachments/assets/31241b68-fdaf-4d2e-b447-af0dd7fbdeac)  ![image](https://github.com/user-attachments/assets/e00fcbae-7880-4867-b371-4af9551d5f45)
-![image](https://github.com/user-attachments/assets/e4f1a2b7-80a6-465c-85ce-2ba88339fdd8)
-![image](https://github.com/user-attachments/assets/6bfb396b-ec9f-4f61-904c-9a815bb88dd4)  ![image](https://github.com/user-attachments/assets/6ba5f877-acad-4128-8ffc-e3fb8a4fed48)
+<h3>🖥️ Python GUI Screens</h3>
+
+<!-- Grid Input GUI -->
+<img src="https://github.com/user-attachments/assets/31241b68-fdaf-4d2e-b447-af0dd7fbdeac" width="300" alt="Custom Grid Input GUI">
+
+<!-- Pattern Selection GUI -->
+<img src="https://github.com/user-attachments/assets/e00fcbae-7880-4867-b371-4af9551d5f45" width="300" alt="Pattern Selection Interface">
+
+<!-- Provide Input Confirmation -->
+<img src="https://github.com/user-attachments/assets/e4f1a2b7-80a6-465c-85ce-2ba88339fdd8" width="300" alt="Input Confirmation Status">
+
+<!-- Simulation Running State -->
+<img src="https://github.com/user-attachments/assets/6bfb396b-ec9f-4f61-904c-9a815bb88dd4" width="300" alt="Simulation Running GUI State">
+
+<!-- Ready for Playback -->
+<img src="https://github.com/user-attachments/assets/6ba5f877-acad-4128-8ffc-e3fb8a4fed48" width="300" alt="Visualization Ready State">
+
 
 ##  Pygame Visualization
 Once simulation is complete (or during execution), the output is continuously read and rendered using Pygame:
